@@ -1,0 +1,1 @@
+This is an early multispeaker model, trained pre-ContentVec fix, to test timbre leakage. Speakers are not easily distinguishable.
